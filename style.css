@@ -1,0 +1,52 @@
+.container{
+    margin-left: 350px;
+   background-color: rgb(201, 201, 214);
+   width: 50%;
+   height: 97vh;
+   box-shadow: 0 0 20px rgb(53, 50, 50);
+   font-family: Georgia, 'Times New Roman', Times, serif;
+}
+body{
+    background-color: rgba(139, 6, 28, 0.664);
+}
+.gro{
+    font-size: 50px;
+    padding-top: 40px;
+    text-align: center;
+    color: rgba(139, 6, 28, 0.664);
+}
+
+
+.input{
+    display: flex;
+   
+   padding-top: 30px;
+   text-align: center;
+   padding-left: 60px;
+}
+
+input{
+    border-style: none;
+    outline: none;
+    border-bottom: 2px solid rgba(139, 6, 28, 0.664);
+    font-size: 40px;
+    background-color: rgb(201, 201, 214);
+    color: rgba(139, 6, 28, 0.664);
+    padding-left: 20px;
+}
+
+.icon{
+    font-size: 50px;
+    cursor: pointer;
+    color: rgba(139, 6, 28, 0.664);
+}
+
+.allItem h2{
+     margin-left: 50px;
+     margin-left: 10px;
+     margin-top: 15px;
+     padding-left: 60px;
+     font-size: 40px;
+     cursor: pointer;
+     color:rgba(139, 6, 28, 0.664) ;
+}
